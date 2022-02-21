@@ -10,28 +10,33 @@ https://github.com/DocSystem/razerbladehackintosh
 https://www.youtube.com/watch?v=oxQU3IrGqCM
 https://dortania.github.io/OpenCore-Install-Guide/
 https://mackie100projects.altervista.org/download-opencore-configurator/
-+ many other forums and posts.
+and many other forums and posts.
 
-
+PLEASE NOTE THE FOLLOWING:
+You will need to download a fresh copy of OpenCore 0.7.8 and move the EFI>OC>Resources directory to this EFI>OC directory as it was too many files for me to easily upload to this repository (over 400).
 Please note I have cleared the following values from the config.plist file and you will need to populate them with uniquely generated ones yourself. (This is easily accomplished following any number of guides online):
+
 DataHub
--SystemSerialNumber
--SystemUUID
++SystemSerialNumber
++SystemUUID
+
 Generic
--SystemUUID
--SystemSerialNumber
--MLB
--ROM
++SystemUUID
++SystemSerialNumber
++MLB
++ROM
+
 PlatformNVRAM
--BID
--FirmwareFeatures
--FirmwareFeaturesMask
--MLB
--ROM
--SystemSerialNumber
--SystemUUID
++BID
++FirmwareFeatures
++FirmwareFeaturesMask
++MLB
++ROM
++SystemSerialNumber
++SystemUUID
+
 SMBIOS
--BoardSerialNumber
--ChassisSerialNumber
--SystemSerialNumbr
--SystemUUID
++BoardSerialNumber
++ChassisSerialNumber
++SystemSerialNumbr
++SystemUUID
