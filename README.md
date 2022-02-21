@@ -6,11 +6,17 @@ NOTE: !!!I AM BY NO MEANS AN EXPERT AT HACKINTOSHING AND AM NOT OFFERING ADVICE,
 This is a paste of my EFI folder I use for my 2018 Razer Blade 15 Base Model laptop (Model#: RZ09-03006E92) to run MacOS Monterey 12.2.1. I cannot guarantee that it will work for you even on an identical system and would not recommend using these files as anything other as a starting point to create your own.
 
 Some resources I found helpful when creating my Hackintosh were:
+
 https://github.com/DocSystem/razerbladehackintosh
+
 https://www.youtube.com/watch?v=oxQU3IrGqCM
+
 https://dortania.github.io/OpenCore-Install-Guide/
+
 https://mackie100projects.altervista.org/download-opencore-configurator/
+
 and many other forums and posts.
+
 
 PLEASE NOTE THE FOLLOWING:
 
