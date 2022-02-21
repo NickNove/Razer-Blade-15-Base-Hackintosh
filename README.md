@@ -35,6 +35,7 @@ Generic
 +ROM
 
 PlatformNVRAM
+
 +BID
 
 +FirmwareFeatures
